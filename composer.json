@@ -1,15 +1,15 @@
 {
-    "name": "ircmaxell/random-lib",
+    "name": "dj520/random-lib",
     "type": "library",
-    "description": "A Library For Generating Secure Random Numbers",
+    "description": "A Library For Generating Secure Random Numbers Quote ircmaxell/RandomLib",
     "keywords": ["random", "random-numbers", "random-strings", "cryptography"],
-    "homepage": "https://github.com/ircmaxell/RandomLib",
+    "homepage": "https://github.com/dj520/RandomLib",
     "license": "MIT",
     "authors": [
         {
-            "name": "Anthony Ferrara",
-            "email": "ircmaxell@ircmaxell.com",
-            "homepage": "http://blog.ircmaxell.com"
+            "name": "kongdejun",
+            "email": "kend@vip.qq.com",
+            "homepage": "http://blog.1990design.com"
         }
     ],
     "require-dev": {
@@ -18,7 +18,7 @@
         "phpunit/phpunit": "^4.8|^5.0"
     },
     "require": {
-        "ircmaxell/security-lib": "^1.1",
+        "ircmaxell/security-lib": "^1.2",
         "php": ">=5.3.2"
     },
     "autoload": {
